@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PatternLab5.0", "PatternLab5.0.vcxproj", "{CF63BFD6-66BD-45C1-834C-F8AF66347AF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF63BFD6-66BD-45C1-834C-F8AF66347AF6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CF63BFD6-66BD-45C1-834C-F8AF66347AF6}.Debug|Win32.Build.0 = Debug|Win32
+		{CF63BFD6-66BD-45C1-834C-F8AF66347AF6}.Release|Win32.ActiveCfg = Release|Win32
+		{CF63BFD6-66BD-45C1-834C-F8AF66347AF6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

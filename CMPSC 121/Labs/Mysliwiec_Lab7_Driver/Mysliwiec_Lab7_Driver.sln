@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Mysliwiec_Lab7_Driver", "Mysliwiec_Lab7_Driver.vcxproj", "{3EAB965C-30A5-4840-89D1-A7DDECD417F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EAB965C-30A5-4840-89D1-A7DDECD417F9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3EAB965C-30A5-4840-89D1-A7DDECD417F9}.Debug|Win32.Build.0 = Debug|Win32
+		{3EAB965C-30A5-4840-89D1-A7DDECD417F9}.Release|Win32.ActiveCfg = Release|Win32
+		{3EAB965C-30A5-4840-89D1-A7DDECD417F9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
